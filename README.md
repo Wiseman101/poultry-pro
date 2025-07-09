@@ -254,7 +254,7 @@ For questions, suggestions, or support, please contact:
 
 - **Wiseman101**: [GitHub](https://github.com/Wiseman101)
 - **Juliet Marcs**  
-    juliemarc2021@gmail.com
+    julimarc2021@gmail.com
 - **Hillary Wafula**
 - hillarywafula837@gmail.com
 
